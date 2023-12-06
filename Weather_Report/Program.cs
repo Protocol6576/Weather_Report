@@ -23,7 +23,7 @@ internal class Program
 
             int[] column = { 0, 40, 80, 110 };
 
-            ShowData(column[0], 1, "Город", townName);
+            ShowData(column[0], 1, "Городишко", townName);
 
             DrawVerticalLine(column[0], 2, column[3]);
 
